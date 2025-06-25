@@ -28,7 +28,7 @@ This repository contains implementations of:
 │           └── ur5e.urdf # UR5e URDF 파일 위치
 ├── plane.urdf # 바닥 평면 URDF
 └── README.md
----
+```
 
 ## ⚙️ Environment Setup
 
