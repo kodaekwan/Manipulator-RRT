@@ -98,7 +98,7 @@ You can replace this section with actual example GIFs (using `![caption](path)` 
 
 **Daekwan Ko (고대관)**  
 Ph.D. Student in Robotics/AI  
-📧 kodaekwan@gmail.com
+📧 kodaekwan@dongguk.edu
 
 ---
 
