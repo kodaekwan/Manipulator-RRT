@@ -29,7 +29,10 @@ This repository contains implementations of:
 ├── plane.urdf # 바닥 평면 URDF
 └── README.md
 ```
+> 🔗 **robots/ 폴더는 아래 링크에서 다운로드 받아주세요:**  
+> https://github.com/culurciello/pybullet_ur5_gripper/tree/master/robots
 
+---
 ## ⚙️ Environment Setup
 
 ### 📦 Python Dependencies
