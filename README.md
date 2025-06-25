@@ -84,7 +84,7 @@ python run_rrt_connect_simulation.py
 
 **Daekwan Ko (고대관)**  
 Ph.D. Student in Robotics/AI  
-📧 kodaekwan@gmail.com
+📧 kodaekwan@dongguk.edu
 
 ---
 
