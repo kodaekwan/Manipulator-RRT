@@ -1,2 +1,0 @@
-# Manipulator-RRT
-using pybullet
