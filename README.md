@@ -17,9 +17,9 @@ This repository contains implementations of:
 │ ├── bidirectional_RRT.py
 │ ├── generate_random_map.py
 │ ├── vanilla_RRT.py
-│ └── map.png # 랜덤 생성된 2D 맵 이미지
+│ ├── map.png # 랜덤 생성된 2D 맵 이미지
+│ └── RRT_Connect.py # 2D RRT-Connect 구현
 │
-├── RRT_Connect.py # 2D RRT-Connect 구현
 ├── manipulator_rrt_connect.py # PyBullet용 매니퓰레이터 RRT-Connect
 ├── manipulator_rrt_connect_visual.py # PyBullet용 매니퓰레이터 RRT-Connect, 중간 트리 구조 시각화
 ├── run_rrt_connect_simulation.py # 전체 실행 스크립트 (UR5e 환경)
