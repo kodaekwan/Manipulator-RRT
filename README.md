@@ -43,7 +43,14 @@ pip install pybullet numpy opencv-python imageio
 ```
 
 ---
+## 📺 Demo Videos
 
+- **Visible Node Expansion (with Tree Visualization)**  
+  [![Visible Node Demo](https://img.youtube.com/vi/9R96Dav86M4/0.jpg)](https://youtu.be/9R96Dav86M4)
+
+- **Unvisible Node Expansion (No Visualization)**  
+  [![Unvisible Node Demo](https://img.youtube.com/vi/4eeUZrmQjcg/0.jpg)](https://youtu.be/4eeUZrmQjcg)
+---
 ## 🚀 How to Run
 
 ### 1. Generate a 2D Obstacle Map
