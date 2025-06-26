@@ -90,6 +90,18 @@ python run_rrt_connect_simulation.py
 
 ---
 
+## Paper
+
+CHOMP: Covariant Hamiltonian Optimization for Motion Planning. [link1]
+rapidly-exploring random trees a new tool for path planning. [link2]
+RRT-Connect: An Efficient Approach to Single-Query Path Planning.[link3]
+
+[link1]:https://www.ri.cmu.edu/pub_files/2013/5/CHOMP_IJRR.pdf
+[link2]:https://msl.cs.illinois.edu/~lavalle/papers/Lav98c.pdf
+[link3]:https://doi:10.1109/ROBOT.2000.844730
+
+---
+
 ## ✍️ Author
 
 **Daekwan Ko (고대관)**  
