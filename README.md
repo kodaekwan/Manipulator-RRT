@@ -98,7 +98,7 @@ python run_rrt_connect_simulation.py
 
 [link1]:https://www.ri.cmu.edu/pub_files/2013/5/CHOMP_IJRR.pdf
 [link2]:https://msl.cs.illinois.edu/~lavalle/papers/Lav98c.pdf
-[link3]:https://doi:10.1109/ROBOT.2000.844730
+[link3]:https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=844730
 
 ---
 
