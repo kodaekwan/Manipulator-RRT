@@ -1,7 +1,7 @@
 # ================================================
 # Author     : Daekwan Ko (고대관)
 # Affiliation: Ph.D. Student in Robotics/AI
-# E-mail     : kodaekwan@gmail.com
+# E-mail     : daekwanko@dgu.ac.kr
 # Date       : 2025-06-25
 # Description: RRT (Rapidly-exploring Random Tree) 구현 예제
 #              - 실시간 시각화 포함

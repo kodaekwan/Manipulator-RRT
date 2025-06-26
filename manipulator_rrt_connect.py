@@ -1,7 +1,7 @@
 # ================================================
 # Author     : kodaekwan
 # Affiliation: Ph.D. Student in Robotics/AI
-# E-mail     : kodaekwan@gmail.com
+# E-mail     : daekwanko@dgu.ac.kr
 # Date       : 2025-06-25
 # File       : manipulator_rrt_connect.py
     # RRT-Connect 메인 함수: 트리 번갈아 확장하며 두 트리 연결 시도

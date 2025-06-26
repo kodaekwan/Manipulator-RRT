@@ -1,7 +1,7 @@
 # ================================================
 # Author     : kodaekwan
 # Affiliation: Ph.D. Student in Robotics/AI
-# E-mail     : kodaekwan@gmail.com
+# E-mail     : daekwanko@dgu.ac.kr
 # Date       : 2025-06-25
 # File       : run_rrt_connect_simulation.py
 # Description: UR5e 로봇에 대해 RRT-Connect 기반 경로 생성 및 시각화

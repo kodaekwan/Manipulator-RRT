@@ -1,7 +1,7 @@
 # ================================================
 # Author     : Daekwan Ko (고대관)
 # Affiliation: Ph.D. Student in Robotics/AI
-# E-mail     : kodaekwan@gmail.com
+# E-mail     : daekwanko@dgu.ac.kr
 # Date       : 2025-06-25
 # Description: RRT 테스트용 랜덤 장애물 맵 생성기
 #              - 흰 배경에 사각형 및 원형 장애물 삽입

@@ -1,7 +1,7 @@
 # ================================================
 # Author     : Daekwan Ko (고대관)
 # Affiliation: Ph.D. Student in Robotics/AI
-# E-mail     : kodaekwan@gmail.com
+# E-mail     : daekwanko@dgu.ac.kr
 # Date       : 2025-06-25
 # Description: Bidirectional RRT (Bi-RRT) 알고리즘
 #              - 2D 맵에서 시작점과 목표점을 각각 확장
